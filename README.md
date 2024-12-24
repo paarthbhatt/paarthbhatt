@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning computer science engineering.
 - 💞️ I’m looking to collaborate on various projects and assignments.
 - 📫 How to reach me : 8920948990 or at paarthbhatt37@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I know how to pack a full 360 jab with my right fist so fast, you don't even see it coming.
 
 A first-year tech enthusiast at NIIT University, I transform code into solutions. While others explore options, I'm already immersed in Web3 and Blockchain – because the future is 3.0, not 2.0.
 With Python as my foundation and HTML/CSS/JavaScript in my toolkit, I'm currently conquering React. When not pushing commits to GitHub, I'm preparing for Google Summer of Code, believing vacations are best spent coding.
