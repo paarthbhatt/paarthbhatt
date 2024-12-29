@@ -1,4 +1,4 @@
-# Hi there, I'm Paarth Bhatt! 👋
+# Hi there, I'm Parth Bhatt! 👋
 
 Welcome to my GitHub profile! Here's a little about me:
 
