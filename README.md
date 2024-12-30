@@ -1,6 +1,6 @@
 # Hi there, I'm Parth Bhatt! 👋
 
-Welcome to my GitHub profile! Here's a little about me:
+Welcome to my GitHub profile! Here's some info about me.
 
 ## 👨‍💻 About Me
 
