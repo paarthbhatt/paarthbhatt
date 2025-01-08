@@ -35,3 +35,5 @@ I think of myself as a knowledge sponge with optimized learning algorithms. I ap
 ---
 
 Feel free to explore my repositories and join me in my journey to shape the future of technology. Let’s build something amazing together!
+
+![snake gif](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)
