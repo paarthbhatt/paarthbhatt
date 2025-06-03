@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here's some info about me:
 
 ## 🚀 My Journey
 
-I'm a **first-year tech enthusiast** who believes in transforming code into impactful solutions. While many are exploring options, I’ve already dived into **Web3** and **Blockchain**, because the future is **3.0**, not **2.0**.
+I'm a **second-year tech enthusiast** who believes in transforming code into impactful solutions. While many are exploring options, I’ve already dived into **Cybersecurity** and **Blockchain & Web3**, because the future is **3.0**, not **2.0**.
 
 - **Tech Stack**: Python, HTML, CSS, JavaScript, C++ (starting DSA) and React (currently conquering!).
 - **Current Mission**: Preparing for **Google Summer of Code**, because I believe vacations are best spent coding.
