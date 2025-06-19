@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! Here's some info about me:
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4814985" style='border:none;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/paarthbhatt37.png" alt="Your Image Badge" />
+
+
 ## 👨‍💻 About Me
 
 - 👀 I’m interested in learning new and creative methods of problem-solving.
