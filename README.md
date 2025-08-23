@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here's some info about me:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/paarthbhatt37.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/paarthbhatt37.png"/>
 
 ## 👨‍💻 About Me
 
