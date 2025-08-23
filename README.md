@@ -4,7 +4,6 @@ Welcome to my GitHub profile! Here's some info about me:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/paarthbhatt37.png" alt="Your Image Badge" />
 
-
 ## 👨‍💻 About Me
 
 - 👀 I’m interested in learning new and creative methods of problem-solving.
